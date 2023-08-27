@@ -7,6 +7,8 @@
 - You can save the bounding boxes using the **Save** Button. Any changes will be saved only when the **Save** button is clicked.
 - A **Submit** button is provided to download the annotations in the form of JSON file
 
+![Annottaion Tool](/src/images/AnnotationTool.png)
+
 ## Tech Stack used
 
 - React
