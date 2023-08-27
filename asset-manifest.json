@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AnnotationTool/static/css/main.dbeea290.css",
+    "main.js": "/AnnotationTool/static/js/main.938492f0.js",
+    "static/js/787.3967409d.chunk.js": "/AnnotationTool/static/js/787.3967409d.chunk.js",
+    "static/media/Image 2.jpg": "/AnnotationTool/static/media/Image 2.ebc7a934799cdcc407dc.jpg",
+    "static/media/Image 4.jpg": "/AnnotationTool/static/media/Image 4.1ae5009dfa7181d53ace.jpg",
+    "static/media/Image 5.jpg": "/AnnotationTool/static/media/Image 5.0a3f6551c278601bbcad.jpg",
+    "static/media/Image 1.jpg": "/AnnotationTool/static/media/Image 1.dbc7f30f5d004f9c3620.jpg",
+    "static/media/Image 3.webp": "/AnnotationTool/static/media/Image 3.49f4c93599dfae72ed63.webp",
+    "index.html": "/AnnotationTool/index.html",
+    "main.dbeea290.css.map": "/AnnotationTool/static/css/main.dbeea290.css.map",
+    "main.938492f0.js.map": "/AnnotationTool/static/js/main.938492f0.js.map",
+    "787.3967409d.chunk.js.map": "/AnnotationTool/static/js/787.3967409d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbeea290.css",
+    "static/js/main.938492f0.js"
+  ]
+}
