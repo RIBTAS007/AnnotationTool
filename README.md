@@ -1,3 +1,17 @@
+# Annotation Tool
+
+## App Features
+
+- The Application shows some images individually, along with navigation buttons for moving both forward and backward through the images.
+- When you click the **Enable Annotation** Button you create bounding boxes, and can also delete and resize existing bounding boxes.
+- You can save the bounding boxes using the **Save** Button. Any changes will be saved only when the **Save** button is clicked.
+- A **Submit** button is provided to download the annotations in the form of JSON file
+
+## Tech Stack used
+
+- React
+- Konva-react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
